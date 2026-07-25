@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2e6bfb95-4730-4242-95a7-5ad3d53bbf5f" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0000000000000033" />
+      <entry key="MS500" value="1.001270841655705" />
+      <entry key="S2" value="1.1888090731953531" />
+      <entry key="S5" value="1.513344777653455" />
+      <entry key="S10" value="1.7165769897507968" />
+      <entry key="S30" value="1.9680558804384027" />
+      <entry key="S60" value="2.382895298510874" />
+      <entry key="M2" value="3.437281049020763" />
+      <entry key="M5" value="7.957307021990689" />
+      <entry key="M10" value="18.12226238186046" />
+      <entry key="M15" value="28.67905627453577" />
+      <entry key="M30" value="54.46229638843845" />
+      <entry key="H1" value="83.86053744547594" />
+      <entry key="H2" value="108.214170972479" />
+      <entry key="H4" value="124.32834494920012" />
+      <entry key="D1" value="140.43674990431066" />
+      <entry key="W1" value="143.48343789915097" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="2.0610574649416906E-92" />
+      <entry key="S2" value="1.19818126656403E-23" />
+      <entry key="S5" value="6.782799977638076E-10" />
+      <entry key="S10" value="2.6043809202261633E-5" />
+      <entry key="S30" value="0.029641590397314847" />
+      <entry key="S60" value="0.17216740698742572" />
+      <entry key="M2" value="0.4155052600071564" />
+      <entry key="M5" value="0.8497079025283563" />
+      <entry key="M10" value="1.9068972973457974" />
+      <entry key="M15" value="3.1889257305253014" />
+      <entry key="M30" value="6.964541853660062" />
+      <entry key="H1" value="12.094089043242496" />
+      <entry key="H2" value="16.750926763336498" />
+      <entry key="H4" value="19.966911761766767" />
+      <entry key="D1" value="23.261961847644315" />
+      <entry key="W1" value="23.892818325835943" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="4.021440514001822E-4" />
+      <entry key="MS500" value="0.20951976763472177" />
+      <entry key="S2" value="0.7902973033256178" />
+      <entry key="S5" value="1.2745814937057611" />
+      <entry key="S10" value="1.5724696327841678" />
+      <entry key="S30" value="1.93910174515552" />
+      <entry key="S60" value="2.517049511060442" />
+      <entry key="M2" value="3.8250837846143937" />
+      <entry key="M5" value="8.783267422901432" />
+      <entry key="M10" value="20.000928789957012" />
+      <entry key="M15" value="31.836062532224492" />
+      <entry key="M30" value="61.392576346696906" />
+      <entry key="H1" value="95.92607670412194" />
+      <entry key="H2" value="124.94592814824674" />
+      <entry key="H4" value="144.28403286649984" />
+      <entry key="D1" value="163.69656655390446" />
+      <entry key="W1" value="167.37594233323142" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3GpJZKM4PIgi5gEZy8pxzWnPgn2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.circle.executor": "Run",
+    "Python.diamond_shape.executor": "Run",
+    "Python.rectangle.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "/home/kenny/PycharmProjects/Stock",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-c59985aa861c-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.24374.152" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2e6bfb95-4730-4242-95a7-5ad3d53bbf5f" name="Changes" comment="" />
+      <created>1784662631061</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1784662631061</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
