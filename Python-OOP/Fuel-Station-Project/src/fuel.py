@@ -1,10 +1,10 @@
 
 class Fuel:
     def __init__(self, fuel_type, price, quantity = 50.0):
-        if quantity > 50:
-            raise ValueError("Fuel quantity must not be less than 50")
-        elif quantity < 10:
-            raise ValueError("Fuel price should not be less than 10")
+        if quantity < 50:
+            raise ValueError("Quantity should not be below 50")
+        elif quantity < 100:
+            raise ValueError("Fuel Prices should not be less than 100")
 
         self._fuel_type = fuel_type
         self._price = price
